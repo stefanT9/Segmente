@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1547463954 source:b:\work\segmente\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	<mciavi.h>
+
